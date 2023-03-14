@@ -1,1 +1,0 @@
-const livros = require('./listaLivros');
